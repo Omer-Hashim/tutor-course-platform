@@ -1,0 +1,12 @@
+{
+    "nav": {
+        "main": "Main",
+        "courses": "Courses",
+        "about": "About",
+        "contact": "Contact",
+        "login": "Login",
+        "signup": "Sign up",
+        "menu": "Menu",
+        "language": "Language"
+    }
+}
